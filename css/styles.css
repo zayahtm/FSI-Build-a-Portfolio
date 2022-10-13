@@ -1,0 +1,64 @@
+
+
+div {
+    cursor: zoom-in;
+    
+    }
+
+    h1 {
+
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: initial;
+
+    }
+        h2 {
+
+             color: black;
+             text-align: center;
+
+            }
+
+        h3 {
+
+            text-align: center;
+
+            }
+
+    p { 
+
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+
+    }
+    hr {
+
+    color: gold
+
+    }
+    body {
+    
+    background-color: rgb(98, 141, 182);
+    font-size: medium;
+
+    }
+    img {
+        
+    border-style: outset;
+    border-width: 5px;
+    border-color: gold;
+    border-radius: 10px;
+    padding: 0px;
+    
+    }
+
+    * {
+
+    text-align: center;
+
+    } 
+
+
+
+
